@@ -860,7 +860,7 @@ class Ui_TabWidget(QWidget):
         self.pushButton_42.setObjectName("pushButton_42")
 
         ######################## Hindi Version reset
-        self.pushButton_41.clicked.connect(self.reset)
+        self.pushButton_42.clicked.connect(self.reset)
 
         self.gridLayout_4.addWidget(self.pushButton_42, 10, 9, 1, 1)
         self.lineEdit_7 = QtWidgets.QLineEdit(self.tab1)
